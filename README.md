@@ -149,7 +149,7 @@ VTT (40.3%), Paseo (37.4%), and Velo (35.2%) had the highest profit margins.
 
 Amarilla had the lowest margin at 18.9%, indicating a possible pricing or cost challenge.
 
-![]()
+![](https://github.com/Thetelegram212/Company-Finacial-Performance/blob/main/Screenshot%202025-07-23%20191203.png)
 
 **Conclusion On the Insight**
 The Government segment in 2013 showed strong financial performance with a significant increase in sales and profit compared to the previous year. However, attention should be paid to declining average revenue per unit and products with low margins like Amarilla. These findings can help prioritize cost management and marketing focus.
