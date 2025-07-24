@@ -1,7 +1,6 @@
 # Company-Finacial-Performance
 This project analyzes a company's financial performance by evaluating key metrics such as revenue, profitability, liquidity, and efficiency to assess its overall financial health and business sustainability.
-![](https://github.com/Thetelegram212/Company-Finacial-Performance/blob/main/Screenshot%202025-07-23%20191203.pnghttps://github.com/Thetelegram212/Company-Finacial-Performance/blob/main/Screenshot%202025-07-23%20191203)
-
+![](https://github.com/Thetelegram212/Company-Finacial-Performance/blob/main/Statutory%20Accounts_%20Comprehensive%20Financial%20Reporting.jpeg)
 ## Introduction
 
 As a data analyst, I conducted a detailed financial performance analysis using a dataset consisting of sales and profit data segmented by market and country/region. The project involved importing the dataset as CSV files into Power Query in Excel, where I carried out data cleaning, transformation, and exploration. Following the six stages of the data analytics process — Ask, Prepare, Process, Analyze, Share, and Act — I leveraged Excel tools to uncover key insights related to revenue trends, profitability by region, and efficiency across segments, enabling data-driven recommendations for business growth and sustainability.
@@ -153,8 +152,6 @@ Amarilla had the lowest margin at 18.9%, indicating a possible pricing or cost c
 
 ![](https://github.com/Thetelegram212/Company-Finacial-Performance/blob/main/Screenshot%202025-07-23%20191203.png)
 
-**Conclusion On the Insight**
-The Government segment in 2013 showed strong financial performance with a significant increase in sales and profit compared to the previous year. However, attention should be paid to declining average revenue per unit and products with low margins like Amarilla. These findings can help prioritize cost management and marketing focus.
 
 ---
 
@@ -242,6 +239,21 @@ In the final stage, I translated analytical insights into strategic recommendati
 * Even with overall sales growth, average revenue per unit decreased by 1%.
 
 * Consider whether bundling, upselling, or value-added services can help raise the per-unit revenue.
+
+
+---
+
+### **Conclusion**
+
+This project provided a comprehensive analysis of the company’s financial performance within the **Government segment for the year 2013**, using Excel as the primary tool. Through the application of the six stages of the data analytics process — **Ask, Prepare, Process, Analyze, Share, and Act** — I transformed raw sales data into actionable insights.
+
+Key findings revealed significant year-over-year growth in **profits (↑195%)** and **sales (↑201%)**, with strong contributions from high-performing products like **Paseo** and regions like **Germany**. However, the analysis also identified areas for improvement, such as declining **average revenue per unit**, **high discounts**, and **low-margin products** like Amarilla.
+
+By visualizing trends and performance drivers through a well-structured dashboard, this analysis equips decision-makers with clear direction for optimizing pricing strategies, enhancing product profitability, and maximizing market opportunities.
+
+Overall, the insights derived from this project will support more informed, data-driven business decisions and contribute to sustained financial growth.
+
+
 
 
 
