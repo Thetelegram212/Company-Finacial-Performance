@@ -103,6 +103,9 @@ Key steps taken during this phase included:
 These preparation steps helped create a clean, well-structured dataset ready for in-depth exploration and analysis.
 
 
+---
+
+
 ##  Analyze
 
 **Exploring the Data and Generating Insights**
@@ -152,6 +155,94 @@ Amarilla had the lowest margin at 18.9%, indicating a possible pricing or cost c
 
 **Conclusion On the Insight**
 The Government segment in 2013 showed strong financial performance with a significant increase in sales and profit compared to the previous year. However, attention should be paid to declining average revenue per unit and products with low margins like Amarilla. These findings can help prioritize cost management and marketing focus.
+
+---
+
+## Share
+
+**Communicating Insights and Findings**
+
+In this stage, I focused on effectively presenting the insights uncovered during analysis to stakeholders in a clear, concise, and actionable format. Using Excel dashboards and visuals, I transformed raw data into meaningful narratives tailored to the business objective.
+
+ **Communication Tools Used:**
+Interactive Dashboard in Excel: Incorporated slicers for Segment and Year filters, enabling users to explore financial performance dynamically.
+
+Visual Charts: Used a combination of line graphs, bar charts, and donut charts to present:
+
+* Yearly trends in Sales and Profits
+
+* COGS by Product
+
+* Profit Margins by Product
+
+* Sales & Profits by Country
+
+* Unit Discount Distribution
+
+**Summary of Findings Shared:**
+* Government Segment (2013) experienced strong financial growth, with profits up 195% and sales up 201% vs. the previous year.
+
+* Key markets like Germany and USA drove profitability, while products like VTT and Paseo maintained high margins.
+
+* Some products (e.g., Amarilla) showed low margins despite high COGS, signaling potential areas for strategic review.
+
+* Seasonal trends suggest focusing sales efforts during high-performing months like October and December.
+
+**Stakeholder Relevance:**
+The visual report and dashboard enabled non-technical stakeholders to:
+
+* Identify top-performing regions and products
+
+* Spot inefficiencies (e.g., high discounting, low-margin products)
+
+* Make informed decisions regarding pricing, promotions, and inventory planning
+
+
+---
+
+##  Act 
+
+**Driving Business Decisions and Taking Action**
+
+In the final stage, I translated analytical insights into strategic recommendations to guide the company's financial and operational decisions for sustained performance improvement.
+
+
+**Strengthen High-Performing Product Lines**:
+
+* Invest in products like Paseo, Velo, and VTT which showed high profit margins and strong sales volumes.
+
+* Consider expanding distribution or bundling offers around these top products.
+
+**Optimize or Review Low-Margin Products**:
+
+* Amarilla, despite decent sales, has the lowest profit margin (18.9%).
+
+* Conduct a cost review or consider pricing adjustments to improve profitability.
+
+**Target High-Yield Markets**:
+
+* Focus sales and marketing campaigns on Germany and the United States, which delivered the highest returns.
+
+* Leverage the strong performance in these countries to pilot new offers or test pricing models.
+
+**Leverage Seasonal Trends**:
+
+* Allocate more budget and inventory in the last quarter (especially October and December), when sales and profits peak.
+
+* Plan promotional campaigns around this period to maximize ROI.
+
+**Evaluate Discounting Strategy**:
+
+* Total discounts amounted to $3M, with significant portions applied to Velo and Paseo.
+
+* Review discount policies to ensure they are yielding corresponding revenue growth and not eroding margins.
+
+**Monitor Decline in Avg. Revenue per Unit**:
+
+* Even with overall sales growth, average revenue per unit decreased by 1%.
+
+* Consider whether bundling, upselling, or value-added services can help raise the per-unit revenue.
+
 
 
 
